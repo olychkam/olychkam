@@ -2,8 +2,8 @@
 
 ### Languages and Tools:
 
-![React(https://img.shields.io/badge/-React-090909
-?style=for-the-badge&logo=react&logoColor=47C5FB)]
+![React](https://img.shields.io/badge/-React-090909
+?style=for-the-badge&logo=react&logoColor=47C5FB)
 
 Here are some ideas to get you started:
 
