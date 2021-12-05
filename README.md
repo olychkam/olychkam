@@ -7,6 +7,12 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=47C5FB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=47C5FB)
 
+### Follow Me:
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=47C5FB)](https://www.linkedin.com/in/olya-martynova-57847219b/)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=47C5FB)](https://www.instagram.com/olychkam/?hl=ru)
+![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=47C5FB)
+![Gmail](https://img.shields.io/badge/-olgamartynovaaa@gmail.com-090909?style=for-the-badge)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
