@@ -1,4 +1,4 @@
-[![Header](https://github.com/olychkam/olychkam/blob/main/assets/img.jpg)](https://www.linkedin.com/in/olya-martynova-57847219b/)
+[![Header](https://github.com/olychkam/olychkam/blob/main/assets/image.gif)](https://www.linkedin.com/in/olya-martynova-57847219b/)
 
 
 ### Hi there 👋
