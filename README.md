@@ -8,8 +8,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF6347?style=for-the-badge&logo=javascript&logoColor=47C5FB)
 
 ### Follow Me:
-[![Linkedin](https://img.shields.io/badge/-Linkedin-FFFFE0?style=for-the-badge&logo=Linkedin&logoColor=47C5FB)](https://www.linkedin.com/in/olya-martynova-57847219b/)
-[![Instagram](https://img.shields.io/badge/-Instagram-FFC0CB?style=for-the-badge&logo=Instagram&logoColor=47C5FB)](https://www.instagram.com/olychkam/?hl=ru)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-FFC0CB?style=for-the-badge&logo=Linkedin&logoColor=47C5FB)](https://www.linkedin.com/in/olya-martynova-57847219b/)
+[![Instagram](https://img.shields.io/badge/-Instagram-EE82EE?style=for-the-badge&logo=Instagram&logoColor=47C5FB)](https://www.instagram.com/olychkam/?hl=ru)
 ![Gmail](https://img.shields.io/badge/-Gmail-DB7093?style=for-the-badge&logo=Gmail&logoColor=47C5FB)
 ![Gmail](https://img.shields.io/badge/-olgamartynovaaa@gmail.com-DB7093?style=for-the-badge)
 
