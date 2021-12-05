@@ -2,8 +2,10 @@
 
 ### Languages and Tools:
 
-![React](https://img.shields.io/badge/-React-090909
-?style=for-the-badge&logo=react&logoColor=47C5FB)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=47C5FB)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=47C5FB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=47C5FB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=47C5FB)
 
 Here are some ideas to get you started:
 
