@@ -14,7 +14,7 @@
 ![Gmail](https://img.shields.io/badge/-olgamartynovaaa@gmail.com-DB7093?style=for-the-badge)
 
 ### My portfolio and CV:
- [![Portfolio](https://img.shields.io/badge/-Portfolio-A0522D?style=for-the-badge&logo=portfolio&logoColor=47C5FB)](https://olychkam.github.io/portfolio/)
+ [![Portfolio](https://img.shields.io/badge/-Portfolio-A0522D?style=for-the-badge&logo=portfolio&logoColor=47C5FB)]()
  [![CV](https://img.shields.io/badge/-CV-FFFF00?style=for-the-badge&logo=CV&logoColor=47C5FB)](https://www.linkedin.com/feed/update/urn:li:activity:6849292295510999040/)
 
 
