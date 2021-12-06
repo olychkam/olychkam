@@ -15,7 +15,7 @@
 
 ### My portfolio and CV:
  [![Portfolio](https://img.shields.io/badge/-Portfolio-A0522D?style=for-the-badge&logo=portfolio&logoColor=47C5FB)](https://olychkam.github.io/portfolio/)
- [![CV](https://img.shields.io/badge/-CV-FFFF00?style=for-the-badge&logo=CV&logoColor=47C5FB)](https://github.com/olychkam/olychkam/blob/main/assets/CV_NEW.jpg)
+ [![CV](https://img.shields.io/badge/-CV-FFFF00?style=for-the-badge&logo=CV&logoColor=47C5FB)](https://drive.google.com/file/d/1RSQO3a-HVsU8cR_SR_jiTLAcCpeUycwE/view?usp=sharing)
 
 
 
